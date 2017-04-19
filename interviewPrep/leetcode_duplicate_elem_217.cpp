@@ -1,5 +1,6 @@
 // sort the data 
 // check for consecutive element wether they are same or not
+// or we can do with hash 
 
 class Solution {
 public:
